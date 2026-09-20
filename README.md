@@ -8,7 +8,7 @@
 #### O resultado final foi inovador? Por quê?
 #### O que você faria diferente?
 
-## Texto
+## Análise:
 
 A Sony estava à procura disto, de uma metodologia administrativa eficiente, compatível com uma nova fase de desenvolvimento, focada no trabalho em equipe, leve, flexível e que trouxesse resultados.
 O principal motivo do Scrum ter sido utilizado foi exatamente a sua natureza ágil, em forma de framework, uma estrutura pronta para ser aplicada e gerar resultados, conforme seus princípios: transparência, inspeção e adaptação. Embora houvesse relutância, havendo quem comparasse alguns aspectos do Scrum a microgerenciamento, após um treinamento e o uso devido do framework, sua eficácia foi evidenciada.
